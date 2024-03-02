@@ -1,1 +1,1 @@
-this activity includes own conflict
+scm project= own conflict
